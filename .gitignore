@@ -16,6 +16,5 @@ email-addresses.txt
 content/*
 content
 tmpfile*
-my.config.json
 config.schema.json
 yarn.lock
